@@ -18,7 +18,7 @@ public class ArticleScore {
 		trie = new PatriciaTrie();
 		try{
 			constructTrie();
-			calculateScore("Barron800");
+			calculateScore("Barron800Magoosh1K");
 		}
 		catch(IOException e){
 			e.printStackTrace();
@@ -66,6 +66,7 @@ public class ArticleScore {
 			}
 
 		}
+		reader.close();
 		System.out.println("Total " + count + " unique word(s).");
 	    	 		
 	}
