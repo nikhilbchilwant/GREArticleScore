@@ -1,124 +1,285 @@
-Future tension
-Facts about the past and present are either true or false. Can knowledge of the future offer the same degree of certainty?
+Nautilus
+ ISSUES TOPICS BLOG 
+NEWSLETTER
+  
+ STORE PRIME
 
-Will the sun rise? Photo taken from the ISS on 1 March 2016. Photo courtesy NASA
-Anthony Sudbery
-is professor emeritus of mathematics at University of York. His research focuses on quantum theory. He lives in York.
 
-FOLLOWANTHONY
-4,600 words
 
-Edited by Sam Dresser
 
-REPUBLISH - LICENCE ONLY
-297Tweet
-What can we know of the future?
 
- 48
-Responses
-Que sera sera
-Whatever will be will be
-The future’s not ours to see
-Que sera sera.
 
-So sang Doris Day in 1956, expressing a near-universal belief of humankind: you can’t know the future. Even if this is not quite a universal belief, then the universal experience of humankind is that we don’t know the future. We don’t know it, that is, in the immediate way that we know parts of the present and the past. We see some things happening in the present, we remember some things in the past, but we don’t see or remember the future. 
 
-But perception can be deceptive, and memory can be unreliable; even this kind of direct knowledge is not certain. And there are kinds of indirect knowledge of the future that can be as certain as anything we know by direct perception or memory. I reckon I know that the sun will rise tomorrow; if I throw a stone hard at my kitchen window, I know that it will break the window. On the other hand, I did not know on Christmas Eve last year that my hometown of York was going to be hit by heavy rain on Christmas Day and nearly isolated by floods on Boxing Day.
 
-In the ancient world and, I think, to our childhood selves, it is events such as the York floods that make us believe that we cannot know the future. I might know some things about the future, but I cannot know everything; I am sure that some things will happen tomorrow that I have no inkling of, and that I could not possibly have known about, today. In the past, such events might have been attributed to the unknowable will of the gods. York was flooded because the rain god was in a bad mood, or felt like playing with us. My insurance policy refers to such catastrophes as ‘acts of God’. When we feel that there is no knowing who will win an election, we say that the result is ‘in the lap of the gods’.
 
-Aristotle formulated the openness of the future in the language of logic. Living in Athens at a time when invasion from the sea was always a possibility, he made his argument using the following sentence: ‘There will be a sea-battle tomorrow.’ One of the classical laws of logic is the ‘law of the excluded middle’ which states that every sentence is either true or false: either the sentence is true or its negation is true. But Aristotle argued that neither ‘There will be a sea-battle tomorrow’ nor ‘There will not be a sea-battle tomorrow’ is definitely true, for both possibilities lead to fatalism; if the first statement is true, for example, there would be nothing anybody could do to avert the sea-battle. Therefore, these statements belong to a third logical category, neither true nor false. In modern times, this conclusion has been realised in the development of many-valued logic.
 
-But some statements in the future tense do seem to be true; I have given the examples ‘The sun will rise tomorrow’ and, after I have thrown the stone, ‘That window is going to break.’ Let’s look at these more closely. In fact, no such future statement is 100 per cent certain. The sun might not rise tomorrow; there might be a galactic star-trawler heading for the solar system, ready to scoop up the sun tonight and make off with it at nearly the speed of light. When I throw the stone at the window, my big brother, who is a responsible member of the family and a superb cricketer, might be coming round the corner of the house; he might see me throw the stone and catch it so as to save the window.
 
-We did not know that the sun would fail to make its scheduled appearance tomorrow morning; I did not know that my naughtiness would be foiled. But this lack of knowledge is not a specific consequence of the fact that we are talking about the future. If the Spaceguard programme had had a wider remit, we might have seen the star-trawler coming, and then we would have known that we had seen our last sunrise; if I had known my brother’s whereabouts, I could have predicted his window-saving catch. In both these scenarios, the lack of knowledge of the future reduces to lack of knowledge about the present.
 
-The success of modern science gave rise to the idea that this is always true: not knowing the future can always be traced back to not knowing something about the present. As more and more phenomena came under the sway of the laws of physics, so that more and more events could be explained as being caused by previous events, so confidence grew that every future event could be predicted with certainty, given enough knowledge of the present. The most famous statement of this confidence was made by the French mathematician Pierre-Simon Laplace in 1814:
 
-We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.
 
-This idea goes back to Isaac Newton, who in 1687 had a dream:
 
-I wish we could derive the rest of the phenomena of Nature by the same kind of reasoning from mechanical principles, for I am induced by many reasons to suspect that they may all depend upon certain forces by which the particles of bodies, by some causes hitherto unknown, are either mutually impelled towards one another, and cohere in regular figures, or are repelled and recede from one another.
 
-In this view, everything in the world is made up of point particles, and their behaviour is explained by the action of forces that make the particles move according to Newton’s equations of motion. These completely determine the future motion of the particles if their positions and velocities are given at any one instant; the theory is deterministic. So if we fail to know the future, that is purely because we do not know enough about the present.
 
-Get Aeon straight to your inbox
 
-Email address
-Daily
-Weekly
-SUBSCRIBE
-For a couple of centuries, Newton’s dream seemed to be coming true. More and more of the physical world came under the domain of physics, as matter was analysed into molecules and atoms, and the behaviour of matter, whether chemical, biological, geological or astronomical, was explained in terms of Newtonian forces. The particles of matter that Newton dreamed of had to be supplemented by electromagnetic fields to give the full picture of what the world was made of, but the basic idea remained that they all followed deterministic laws. Capricious events such as storms and floods, formerly seen as unpredictable and attributed to the whims of the gods, became susceptible to weather forecasts; and if some such events, like earthquakes, remain unpredictable, we feel sure that advancing knowledge will make them also subject to being forecast.
 
-This scientific programme has been so successful that we have forgotten there was ever any other way to think about the future. Mark G Alford, a physicist at Washington University, writes:
 
-In ordinary life, and in science up until the advent of quantum mechanics, all the uncertainty that we encounter is presumed to be … uncertainty arising from ignorance.
 
-We have completely forgotten what an uncertain world was inhabited by the human race before the 17th century, and we take Newton’s dream as a natural view of waking reality.
 
-Well, it was a nice dream. But it didn’t work out that way. In the early years of the 20th century, Ernest Rutherford, investigating the recently discovered phenomenon of radioactivity, realised that it showed random events happening at a fundamental level of matter, in the atom and its nucleus. This did not necessarily mean that Newton’s dream had to be abandoned: the nucleus is not the most fundamental level of matter, but is a complicated object made up of protons and neutrons, and – maybe – if we knew exactly how these particles were situated and how they were moving, we would be able to predict when the radioactive decay of the nucleus would happen. But other, stranger discoveries at around the same time led to the radical departure from Newtonian physics represented by quantum mechanics, which strongly reinforced the view that events at the smallest scale are indeed random, and there is no possibility of precisely knowing the future.
 
-Quantum theory is so puzzling, it’s not clear it should be described as an ‘explanation’ of the puzzling facts it subsumes
 
-The discoveries that had to be confronted by the new physics of the 1920s were two-fold. On the one hand, Max Planck’s explanation of the distribution of wavelengths in the radiation emitted by hot matter, and Albert Einstein’s explanation of the photoelectric effect, showed that energy comes in discrete packets, instead of varying continuously as it must do in Newton’s mechanics and James Clerk Maxwell’s electromagnetic theory. On the other hand, experiments on electrons by George Paget Thomson, Clinton Davisson and Lester Germer showed that electrons, which had been firmly established to be particles, also sometimes behaved like waves.
 
-These puzzling facts found a systematic, coherent, unified mathematical description in the theory of quantum mechanics which emerged from the work of theorists after 1926. This theory is itself so puzzling that it is not clear that it should be described as an ‘explanation’ of the puzzling facts it subsumes; but an essential feature of it, which seems inescapable, is that, when applied to give predictions of physical effects, it yields probabilities rather than precise numbers.
 
-This is still not universally accepted. Some people believe that there are finer details to be discovered in the make-up of matter, which, if we knew them, would once again make it possible to predict their future behaviour precisely. This is indeed logically possible, but there would necessarily be aspects of such a theory that would lead most physicists to think it highly unlikely.
 
-The format of quantum theory is quite different from previous physical theories such as Newtonian mechanics or electromagnetism (or both combined). These theories work with a mathematical description of the state of the world, or any part of the world; they have an equation of motion that takes such a mathematical description and tells you what it will change into after a given time. Quantum mechanics also works with a mathematical object that describes a state of the world; it is called a state vector (though it is not a vector in three dimensions like velocity), and is often denoted by the Greek letter Ψ or some similar symbol.
 
-But this is a different kind of mathematical description from that in mechanics or electromagnetism. Each of those theories uses a set of numbers that measure physical quantities such as the velocity of a specified particle, or the electric field at a specified point of space. The quantum state vector, on the other hand, is a more abstruse object whose relation to physical quantities is indirect. From the state vector, you can obtain the values of physical quantities, but only some physical quantities: you can choose which quantities you would like to know, but you are not allowed to choose all of them.
 
-Moreover, once you have chosen which ones you would like to know, the state vector will not give you a definite answer; it will give you only probabilities for the different possible answers. This is where quantum mechanics departs from determinism. Strangely enough, in its treatment of change, quantum mechanics looks like the old deterministic theories. Like them, it has an equation of motion, the Schrödinger equation, which will tell you what a given state vector of the world will become after a given time; but because you can get only probabilities from this state vector, it cannot tell you what you will see after this time.
 
-State vectors, in general, are puzzling things, and it is not at all clear how they describe physical objects. Some of them, however, do correspond (if you don’t look too closely) to descriptions that we can understand. Among the state vectors of a cat, for example, is one describing a cat sitting and contentedly purring; there is another one describing it lying dead, having been poisoned in a diabolical contraption devised by the physicist Erwin Schrödinger.
 
-But there are others, obtained mathematically by ‘superposing’ these two state vectors; such a superposed state vector could be made up of a part describing the cat as alive and a part describing it as dead. These are not two cats; the point of Schrödinger’s story was that one and the same cat seems to be described as both alive and dead, and we do not understand how such states could describe anything that could arise in the real world. How can we believe this theory, generations of physicists have asked, when we never see such alive-and-dead cats?
 
-It follows from quantum mechanics that although cats have states in which they seem to be both alive and dead, we will never see a cat in such a state
 
-There is an answer to this puzzle. If I were to open the box in which Schrödinger has prepared this poor cat, then the ordinary laws of everyday physics would ensure that, if the cat was alive, I would have the image of a living cat on my retina and in my visual cortex, and the system consisting of me and the cat would end up in an understandable state in which the cat is alive and I see a living cat. If the cat was dead, I would have the image of a dead cat, and the system consisting of me and the cat would end up in a state in which the cat is dead and I see a dead cat.
 
-It now follows, according to the laws of quantum mechanics, that if the cat is in a superposition of being alive and being dead, then the system consisting of me and the cat ends up in a superposition of the two final states described above. This superposition does not contain a state of my brain seeing a peculiar alive-and-dead state of a cat; the only states of my brain that occur are the familiar ones of seeing a live cat and seeing a dead cat. This is the answer to the question at the end of the earlier paragraph; it follows from quantum mechanics itself that although cats have states in which they seem to be both alive and dead, we will never see a cat in such a state.
 
-But now the combined system of me and the cat is in one of the strange superposition states introduced by quantum mechanics. It is represented mathematically by the familiar sign +, and called an entangled state of me and the cat. How are we to understand it? Maybe the mathematical sign + just means ‘or’; that would make sense. But unfortunately this meaning, if applied to the states of an electron, is not compatible with the facts of interference observed in the experiments that show the electron behaving like a wave. Some people think that this + should be understood as ‘and’: when the cat and I are in the superposition state, there is a world in which the cat has died and I see a dead cat, and another world in which the cat is still alive and I see a living cat. Others do not find this a helpful picture. Perhaps we should just take it as (in some sense) a true description of the cat and me, whose meaning is beyond us.
 
-Now let us broaden our horizon and consider the whole universe, which contains each one of us considered as a sentient, observing physical system. According to quantum mechanics, this has a description by a state vector in which the sentient system is entangled with the rest of the universe, and several different experiences of the sentient system are involved in this entanglement. The same overall state vector of the whole universe can be seen as such an entangled state for every sentient system inside the universe; these are simply different views of the same universal truth.
 
-But saying that this is the truth about the universe seems to conflict with my knowledge of what I see. To illustrate this, let us again consider a little universe containing just me and a cat. Let us suppose that the cat survived when I did Schrödinger’s experiment. Then I know what my state is: I see a living cat. From this I know what the state of the cat is: it is alive. The entangled state of my little universe that was produced by my experiment also contains a part with a dead cat and my brain full of remorse.
 
-But seeing a live cat, as I do, I reckon that this other picture is not part of the truth; it describes something that might have happened but didn’t. In general, considering the whole universe, I know that I have just one definite experience. But this contradicts what was asserted in the previous paragraph. Which of these is the truth?
 
-This contradiction is of the same type as many familiar contradictions between objective and subjective statements. In The View from Nowhere (1986), Thomas Nagel shows how some of these contradictions can be resolved: we must recognise that there are two positions from which we can make statements of fact or value, and statements made in these two contexts are not commensurable. This applies to the puzzle presented by quantum mechanics as follows. In the external context (the God’s-eye view, or the ‘view from nowhere’) we step outside our own particular situation and talk about the whole universe. In the internal context (the view from now, here), we make statements as physical objects inside the universe.
 
-Thus, in the external view, the entangled universal state vector is the whole truth about the universe; the components describing my different possible experiences, and the corresponding states of the rest of the universe, are (unequal) parts of this truth. But in the internal view, from the perspective of some particular experience that I know I am having, this experience, together with the corresponding state of the rest of the universe, is the actual truth. I might know what the other components are, because I can calculate the universal state vector using the equations of quantum mechanics; but these other components, for me, represent things that might have happened but didn’t.
 
-Since I cannot see the future, none of the worlds of the future are singled out for me
 
-We can now look at what quantum mechanics tells us about the future. As we should now expect, there are two answers, one for each of the two perspectives. From the external perspective, the universe at any one time is described by a universal state vector, and state vectors at different times are related by the Schrödinger equation. Given the state vector at the present time, the Schrödinger equation delivers a unique state vector at any future time: the theory is deterministic, in complete accord with Laplace’s world-view (in a quantum version).
 
-From the internal perspective, however, things are quite different. We now have to specify a particular observer (who has been me in the above discussion, but it could have been you or anyone else, or indeed the whole human race taken together), with respect to which we can carve up the universal state vector as described above; and we have to specify a particular experience state of that observer. From that perspective, it is by definition true that the observer has that definite experience, and that the rest of the universe is in a corresponding definite state.
 
-So quantum mechanics tells us that at this moment there are a number of different worlds, but I know that one of them is singled out, for me, as being the world that I see and whose finer details are revealed to me by experiment. But when we turn to the future the situation is different. Since I cannot see the future, none of the worlds of the future are singled out for me. Even if there is only one world now, and what I see agrees with the universal state vector of quantum mechanics, it might happen that the laws of quantum mechanics produce a superposition of worlds at a future time. For example, if I start with the experience of setting up Schrödinger’s experiment with the cat, then at the end of the experiment the universal state vector will be the superposition that we have already encountered, with one part containing me seeing a living cat and another part containing me seeing a dead cat. Then what can I say about what I will see at that future time?
 
-I found this rather startling when I first encountered it. I was used to thinking that there is something awaiting me in the future, even if I cannot know what it is, and even if there is no law of nature that determines what it is. Whatever will be will be, indeed. But Aristotle already saw that this is wrong. Statements in the future tense do not obey the same logic as present-tense statements: they do not have to be either true or false. Logicians following Aristotle have allowed the possibility of a third truth value, ‘undetermined’ or ‘undecided’, in addition to ‘true’ and ‘false’.
 
-However, Aristotle also pointed out that, although no one statement about the future is actually true, some of them are more likely than others. Similarly, the universal state vector at a future time contains more information, for me, than simply what experiences I might have at that time. These experiences, occurring as components of the universal state vector, contribute to it in different amounts, measured by coefficients that are usually used in quantum mechanics to calculate probabilities. So we can understand the future universal state as giving information, not only about what experiences are possible for me at that future time, but also about how probable each experience is.
 
-Now, truth and falsity can be expressed numerically: a true statement has truth value 1, a false one has truth value 0. If a future event X is very likely to happen, so that the probability of X is close to 1, then the statement ‘X will happen’ is very nearly true; if it is very unlikely to happen, so that its probability is close to 0, then the statement ‘X will happen’ is very nearly false. This suggests that the truth value of a future-tense statement should be a number between 0 and 1. A true statement has truth value 1; a false statement has truth value 0; and if a future-tense statement ‘X will happen’ has a truth value between 0 and 1, that number is the probability that X will happen.
 
-The nature of probability is a long-standing philosophical problem, to which scientists also need an answer. Many scientists take the view that the probability of an event makes sense only when there are many repetitions of the circumstances in which the event might occur, and we work out the proportion of times that it does occur; they hold that the probability of a single, unrepeated event does not make sense. But what we have just outlined does seem to be a calculation of a single event at a time that will come only once. In everyday life, we often talk about the probability that something will happen on just one occasion: that it will rain tomorrow, or that a particular horse will win a race, or that there will be a sea-battle. A standard view of such single-event probability is that it refers to the strength of the belief of the person who is asserting the probability, and can be measured by the betting odds they are prepared to offer on the event happening.
 
-But the probability described above is an objective fact about the universe. It has nothing to do with the beliefs of an individual, not even the individual whose experiences are in question; that individual is being told a fact about his future experiences, whether he believes it or not. The logical theory gives an objective meaning to the probability of a single event: the probability of a future event is the truth value of the future-tense proposition that that event will happen. I explore this view of probability, and the way that quantum mechanics supports the associated many-valued logic of tensed propositions, in ‘The Logic of the Future in Quantum Theory’ (2016).
 
-It has now become clear that the description of the physical world given by quantum mechanics, namely the universal state vector, plays very different roles in the two perspectives, external and internal. From the external perspective, it is a full description of reality; it tells how the universe is constituted at a particular time. This complete reality can be analysed with respect to any given sentient system, yielding a number of components, attached to different experiences of the chosen sentient system, which are all parts of the universal reality.
 
-Those things that might have happened, but didn’t, some of which we don’t even know about, might still affect the future
 
-From the internal perspective of this system, however, reality consists of just one of these experiences; the component attached to this experience is the complete truth about the universe for the sentient system. All the other non-zero components are things that might have happened, but didn’t. The role of the universal state vector at a later time, in this perspective, is not to describe how the universe will be at that time, but to specify how the present state of the universe might change between now and then. It gives a list of possibilities at that later time, with a probability for each of them that it will become the truth.
 
-It might seem that we can at least know these probabilities for the future, being able to calculate them from our certain knowledge of our present experience, using the Schrödinger equation. But even this is uncertain. Our present experience could well be only part of the universal state, and it is the whole universal state vector that must be put into the calculation of future probabilities. Those things that might have happened, but didn’t, some of which we don’t even know about, might still affect the future. However, if those things are sufficiently different from our actual experience on a macroscopic scale, then quantum theory assures us that the effect they might have on the future is so small as to be utterly negligible. This consequence of the theory is known as decoherence.
 
-Knowledge of the future, therefore, is limited in a fundamental way. It is not that there are true facts about the future, but the knowledge of them is not accessible to us; there are no facts out there, and there is simply no certain knowledge to be had. Nevertheless, there are facts about the future with partial degrees of truth. We can attain knowledge of the future, but that knowledge will always be uncertain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOST POPULAR
+My Life with the Physics Dream Team
+The Man Who Tried to Redeem the World with Logic
+Will Viruses Save Us From Superbugs?
+She’ll Text Me, She’ll Text Me Not
+Is Physical Law an Alien Intelligence?
+When Einstein Tilted at Windmills
+It’s Personal: Five Scientists on the Heroes Who Changed Their Lives
+How I Rewired My Brain to Become Fluent in Math
+Who Really Found the Higgs Boson
+The Strange Brain of the World’s Greatest Solo Climber
+The Woman the Mercury Astronauts Couldn’t Do Without
+The Queer Ecology of the Colombian Civil War
+IDEAS	 	HISTORY
+If Not Darwin, Who?
+An alternative history of the great ideas of science.
+
+BY PHILIP BALL
+ILLUSTRATIONS BY JACKIE FERRENTINO
+DECEMBER 15, 2016
+ ADD A COMMENT  FACEBOOK TWITTER EMAIL SHARING REDDIT STUMBLEUPON TUMBLR POCKET
+What would physics look like if Einstein had never existed, or biology without Darwin? In one view, nothing much would change—the discoveries they made and theories they devised would have materialized anyway sooner or later. That’s the odd thing about heroes and heroines of science: They are revered, they get institutions and quantities and even chemical elements named after them, and yet they are also regarded as somewhat expendable and replaceable in the onward march of scientific understanding.
+
+But are they? One way to find out is to ask who, in their absence, would have made the same discovery. This kind of “counterfactual history” is derided by some historians, but there’s more to it than a new parlor game for scientists (although it can be that, too). It allows us to scrutinize and maybe challenge some of the myths that we build around scientific heroes. And it helps us think about the way science works: how ideas arise out of the context of their time and the contingencies and quirks of individual scientists.
+
+
+For one thing, the most obvious candidate to replace one genius seems to be another genius. No surprise, maybe, but it makes you wonder whether the much-derided “great man” view of history, which ascribes historical trajectories to the actions and decisions of individuals, might not have some validity in science. You might wonder whether there’s some selection effect here: We overlook lesser-known candidates precisely because they weren’t discoverers, even though they could have been. But it seems entirely possible that, on the contrary, greatness always emerges, if not in one direction then another.
+
+I say “great man” intentionally, because for all but the most recent (1953) of the cases selected here I could see no plausible female candidate. That’s mostly a consequence of the almost total exclusion of women from science at least until the early 20th century; even if we looked for an alternative to Marie Curie, it would probably have to be a man. But the statistics of scientific Nobel Prizes suggests that we’re not doing much better at inclusion even now. This underuse of the intelligence and creativity of half of humankind is idiotic and shameful, and highlighting the shortfall in an exercise like this is another argument for its value.
+
+Heliocentrism – Johannes Kepler
+
+There are few great discoveries for which one can’t find precedents, and heliocentrism—the idea that the Earth revolves around the sun and not vice versa—is no exception. It’s such a pivotal concept in the history of science, displacing humanity from the center of what was then considered the universe, that anticipations have been well documented before the German-Polish astronomer Nicolaus Copernicus outlined the theory in his epochal De revolutionibus orbium coelestium, published as he lay on his deathbed in 1543.
+
+The Greek mathematician Aristarchus of Samos proposed a scheme like this in the third century B.C., for instance, and in the mid-15th century A.D. the German cardinal Nicholas of Cusa asked if there was a definitive center of the universe at all. What made Copernican theory different was that it was based on a mathematical argument that took careful account of the known movements of the planets.
+
+ Sapolsky_TH-F1
+ALSO IN HISTORY  
+Ingenious: Simon DeDeo
+By Michael Segal
+Among other pursuits, Simon DeDeo studies big things—those that are too big to experiment on. These include cosmology, the subject of his doctoral dissertation, and human societies. How do you do science when, as DeDeo puts it, you can only...READ MORE
+
+Copernicus nearly didn’t disclose his ideas at all. It was a young Austrian professor named Georg Rheticus who persuaded him to publish the book, and only just in time. So there’s more reason than ever to wonder, had Copernicus died too soon, who else would have reached the same conclusion.
+
+Other 16th-century astronomers, such as the Germans Erasmus Reinhold and Christopher Clavius, had Copernicus’s mathematical turn of mind and observational acumen, but both were ideologically wedded to geocentrism (an Earth-centered universe). The Dane Tycho Brahe, working in Prague, shook things up in the 1570s with a geocentric model in which the sun orbited the Earth but the other planets orbited the sun.
+
+But I think the leap to heliocentrism would not otherwise have happened until the early 17th century. We know that Galileo got into trouble for promoting the Copernican theory a little too aggressively for the taste of the Catholic Church in Rome—and he was iconoclastic and skillful enough to have had the idea himself. But I suspect that Tycho’s protégé and Galileo’s correspondent, the German Johannes Kepler, would have done it first. He had access to Tycho’s excellent observational data, he was mathematically adept, but crucially he also had Copernicus’s dash of (to our eyes) mysticism that saw a sun-centered universe as appropriately harmonious. To dare to put the sun in the middle, you needed not just rational but also aesthetic motives, and that was Kepler all over.
+
+Laws of motion – Christiaan Huygens
+
+It’s easy to get the impression that Isaac Newton was thinking on a different plane from his contemporaries in the late 17th century. While Robert Boyle, one of the most illustrious luminaries of the Royal Society, was a master experimentalist who hesitated to frame hypotheses about his observations, and Newton’s bitter rival Robert Hooke was a genius at instrumentation but tended to confuse a promising thought with a thorough explanation, Newton seemed able to make the abstract leap from close observation to underlying principles. Most famously and impressively, he transformed astronomy from a theory of how the heavenly bodies moved to an account of why they do so: A single law of gravitational attraction was all you needed to explain the shapes of planetary and lunar orbits and the trajectories of comets.
+
+Imagining alternative routes to discovery can help to puncture myths.
+
+All this was laid out in Newton’s Principia, published in 1687 after being instigated to eclipse Hooke’s reckless claim that he could explain the ellipse-shaped planetary orbits. Before he could deal with planets, Newton had to set down his basic laws of motion. The three that he described in Book I are the foundation of classical mechanics. In short: Bodies maintain their state of uniform motion or rest unless forces act on them; force equals mass times acceleration; and for every action there is an equal and opposite reaction.
+
+They are concise, complete, and simply stated, almost heart-breaking in their elegance. Could anyone else have managed that feat in Newton’s day?
+
+Not at the Royal Society, I think, the ranks of which were filled as much  by gentleman dilettantes like Samuel Pepys as by true proto-scientists like Boyle and Hooke. But there was at least one genius among the Society’s many continental correspondents who might have risen to the challenge. Dutchman Christiaan Huygens was polymathic even by the  ample standards of his day: a mathematician, astronomer (he made  some of the first observations of  Saturn’s rings), inventor, and expert  in optics and probability. He was especially good at devising clocks and watches, which occasioned a priority dispute with the irascible Hooke. Huygens’ theorems on mechanics in his book on the pendulum clock in 1673 were taken as a model by Newton for the Principia.
+
+Newton’s first law was scarcely his anyway: Known also as the law of inertia (a moving object keeps moving in the absence of a force), it was essentially stated by Galileo, and Huygens embraced it too. The Dutchman’s studies of collisions hover on the brink of stating the third law, while Huygens actually wrote down a version of the second law independently. He had what it took to initiate what we now call Newtonian mechanics.
+
+
+Special relativity – James Clerk Maxwell
+
+One reason why it is more than just fun to imagine alternative routes to discovery is that it can help to puncture myths. The story of Einstein imagining his way to special relativity in 1905 by conceptually riding on a light beam captures his playful inventiveness but gives us little sense of his real motives. Nor were they, as often suggested, to explain why the experiments of Albert Michelson and Edward Morley in the 1880s had failed to detect the putative light-bearing ether. Einstein was inconsistent about the role of those experiments in his thinking, but it clearly wasn’t a big one.
+
+No, the reason special relativity was needed was that the equations devised by the Scottish scientist James Clerk Maxwell in the 1860s to account for the unity of electric and magnetic phenomena predict the speed of light. Speeds are usually contingent things—the speed of sound, for instance, depends on the medium it travels through. But if the laws of physics, such as Maxwell’s equations of electromagnetism, stay the same regardless of how fast your frame of reference is (steadily) moving, then the speed of light shouldn’t depend on relative motion. Einstein’s theory of special relativity took that as a basic postulate and asked what followed: namely, that space contracts and time slows for objects in motion.
+
+There was already an attempt to square electromagnetic theory with relative motion before Einstein, concocted by the Dutch physicist Hendrik Lorentz. It too invoked contraction of space and time, after a fashion—but did so with a view to preserving the ether. It’s tempting to suppose that Lorentz would have eventually reached the same conclusion as Einstein—that it was better to discard the ether—and so to anticipate that Lorentz would have discovered special relativity in Einstein’s absence. But I am taking the liberty of awarding that realization to a man who was dead in 1905, namely Maxwell himself. He died in 1879 aged just 48, and was very much active until the end. He had the kind of deep intuition in physics that was needed for the remarkable feat of adding electricity to magnetism and producing light. Given two more decades (and the seeds of doubt sown about the ether) I suspect he would have figured it out. You don’t need to take my word for it: Einstein said it himself. “I stand not on the shoulders of Newton,” he said, “but on the shoulders of Maxwell.”
+
+General relativity – Hermann Minkowski
+
+In 1916 Einstein unveiled a new view of gravity, which superseded the theory of Isaac Newton that had reigned for over two centuries. He argued that the force we call gravity arises from the curvature of space and time (the four-dimensional fabric called spacetime) in the presence of mass. This curvature causes the acceleration of bodies in a gravitational field: the steady speeding up of an object falling to Earth from a great height, say. This was the theory of general relativity, which is still the best theory of gravitation that exists today and explains the orbits of the planets, the collapse of stars into black holes, and the expansion of the universe. It is Einstein’s most remarkable and revered work.
+
+Permit me again to bend the rules of the game here—for once more, Einstein might have been beaten to it if another scientist had not died first. That person was Hermann Minkowski, a German mathematician under whom Einstein had studied in Zurich. Much of Minkowski’s work was in pure mathematics, but he also worked on problems related to physics.
+
+Sometimes discoveries or breakthrough ideas occur to different individuals more or less simultaneously.
+
+In 1908 Minkowski explained that the proper way to understand Einstein’s theory of special relativity—which was all about bodies moving at constant speeds, not accelerating—was in terms of a four-dimensional spacetime. Einstein was at first skeptical, but he later drew on the concept to formulate general relativity.
+
+Minkowski was already alert to the implications, however. Crucially, he saw that whereas the path of an object moving at a constant speed in spacetime is a straight line, that of an accelerating object is curved. In three-dimensional space, the path of the moon orbiting the earth under the influence of their gravitational attraction is more or less circular. But the four-dimensional worldline of the orbiting moon is a kind of helix: It goes round and round in space, but returns to the same position in space at a different time.
+
+There’s more to general relativity than that. It is mass itself, Einstein said, that deforms spacetime into this curving, so-called non-Euclidean (not flat) shape. But the idea of a non-Euclidean spacetime was Minkowski’s, and it’s quite conceivable that he would have fleshed out the idea into a full-blown gravitational theory, perhaps working together with the formidable mathematician David Hilbert at the University of Göttingen, where Minkwoski was based starting from 1902.
+
+We do know, from a lecture Minkowski gave at Göttingen in 1907, that he was already thinking about gravitation in the context of relativity and spacetime. But we’ll never know how far he would have taken that, had he not died suddenly at the start of 1909, aged just 44.
+
+Quanta – J. J. Thomson
+
+This must be one of the most incidental, even reluctant, of great discoveries. Heck, German physicist Max Planck did not even want to discover quanta in 1900. He called them a “fortunate guess,” a mere mathematical trick to make his equations comply with what we actually see. Trying to understand how warm bodies emit radiation (think of filament light bulbs, or stars), he proposed that the energy of the vibrating constituent particles be divided into packets or “quanta” with energies proportional to the vibrational frequencies. The resulting solutions of the equations matched experiments, but Planck hesitated to assume that this quantization of energy was a real phenomenon: He advised that the quantum hypothesis be introduced into physics “as conservatively as possible.”
+
+The expert on this “blackbody radiation” was Wilhelm Wien, who won a Nobel Prize for his work. Wien came within a whisker of other important discoveries too: In 1900 he decided that E = 3/4mc2 (spot the problem?), and he first saw protons in 1898 but didn’t know what he had discovered. Yet I think Wien was too much a traditionalist to have risked Planck’s quanta.
+
+No—I think that, were it not for Planck’s work on blackbody radiation, quantization of energy would have been deduced from another direction. Because of this quantization, atoms absorb and emit light only at very specific frequencies, for which the light quanta have just the right amount of energy to enable an electron orbiting the atom to jump from one quantized energy state to another. It is because electrons in atoms can only adopt these discrete energy states and not ones in between that atoms are stable at all, the electrons being unable (as classical physics would predict) to gradually lose energy and spiral into the electrically positive nucleus. So as the theory of the internal structure of atoms evolved in the early 20th century, sooner or later quantization would have been an unavoidable inference.
+
+But who would have inferred it? Ernest Rutherford was the expert on atomic structure, but too much the experimentalist and temperamentally resistant to wild speculation. The Dane Niels Bohr was the first to suggest the quantum view of the atom, but only because he had Planck and Einstein’s work on energy quanta to draw on. I can’t help wondering if the English physicist J. J. Thomson, who discovered electrons themselves and under whom both Rutherford and Bohr worked for a time, might have suspected it. He was an expert on atomic theory, the mentor of Charles Glover Barkla who studied quantum jumps in atoms due to X-ray emission, and lived until 1940. He would have been well placed to give quantum theory a less timid origin.
+
+Ball_BR-Franklin-Pauling
+
+
+Structure of DNA – Rosalind Franklin
+
+I’d love to think that Rosalind Franklin, the English crystallographer whose data were central to the discovery of the double-helical structure of DNA, would have figured it out if James Watson and Francis Crick hadn’t done so first in 1953. It was famously only when Watson saw the pattern of X-rays scattered from DNA and recorded by Franklin and student Raymond Gosling that he became convinced about the double helix. He was shown these data by Maurice Wilkins, with whom Franklin had a prickly working relationship at King’s College London—and Wilkins did not have Franklin’s permission for that, although any impropriety has been overplayed in accounts that make Franklin the wronged heroine. In any event, those data triggered Watson and Crick’s deduction that DNA is a helix of two strands zipped together via weak chemical bonds between the gene-encoding bases spaced regularly along the backbones.
+
+The urge to award the “alternative discovery” to Franklin is heightened by the ungallant, indeed frankly misogynistic, treatment she got from Watson in his racy but somewhat unreliable 1968 memoir of the discovery, The Double Helix. Watson is rightly haunted now by his chauvinistic attitude.
+
+I was worried, though, that Franklin—cautious, careful and conservative by instinct in contrast to the brilliant, intuitive Crick and the brash young Watson—wouldn’t have stuck her neck out on the basis of what by today’s standards is rather flimsy evidence. She knew that a female scientist in those days couldn’t afford to make mistakes.
+
+So I was delighted when Matthew Cobb, a zoologist at the University of Manchester who delved deeply into the DNA story for his 2015 book Life’s Greatest Secret, confidently told me that, yes, Franklin would have done it. “The progress she made on her own, increasingly isolated and without the benefit of anyone to exchange ideas with, was simply remarkable,” Cobb wrote in The Guardian. Just weeks before Watson and Crick invited Franklin and Wilkins to see their model of DNA in March 1953, Franklin’s notebooks—studied in detail by British biochemist Aaron Klug, who won a Nobel Prize for his own work on DNA—show that she had realized DNA has a double-helix structure and that the two strands have complementary chemical structures, enabling one to act as a template for replication of the other in the way Watson and Crick famously alluded to in their discovery paper in Nature that April.
+
+“Crick and I have discussed this several times,” wrote Klug in the Journal of Molecular Biology. “We agree she would have solved the structure, but the results would have come out gradually, not as a thunderbolt, in a short paper in Nature.” At any rate, her contributions to the discovery are undeniable. “It is clear that, had Franklin lived, the Nobel Prize committee ought to have awarded her a Nobel Prize, too,” writes Cobb.
+
+The other contender for the discovery is American chemist Linus Pauling, who was the Cambridge duo’s most feared rival. Pauling had impetuously proposed a triple-helical structure of DNA in early 1953 with the backbones on the inside and the bases facing out. It made no chemical sense, as Watson and Crick quickly appreciated to their great relief. Unperturbed by such gaffes, Pauling would have bounced back. But he didn’t have Franklin’s X-ray data. “Pauling was a man with great insight, but not a magician who could manage without data,” wrote Klug.
+
+Natural selection - ?
+
+Sometimes discoveries or breakthrough ideas occur to different individuals more or less simultaneously. It happened with calculus (Leibniz and Newton), with the chemical element oxygen (Scheele, Priestley, and Lavoisier), and most famously, with evolution by natural selection, announced in 1858 by Charles Darwin and Alfred Russel Wallace.
+
+It’s tempting to suppose that at such moments there was “something in the air”: that the time for discovery was ripe and it would inevitably have occurred to someone sooner or later. If that’s so, it shouldn’t be too hard to identify other candidate discoverers. If we expunge both Darwin and Wallace from the picture, who could fill their shoes?
+
+Well, here’s the thing. Darwin had plenty of advocates after he published On the Origin of Species, but I struggle to see how any of them would have deduced the theory by themselves. As for Wallace, his evolutionary theory was not at all identical to Darwin’s anyway, despite what Darwin himself said: as his biographers Adrian Desmond and James Moore say, in part he “read his own thought” into Wallace’s account.
+
+I wondered if my floundering for candidates just betrayed my own ignorance or lack of imagination. So I asked historian and philosopher of science James Lennox of the University of Pittsburgh, an expert on the history of Darwinian theory, who might have done the job in place of Darwin and Wallace. His answer was striking: The story might not have gone that way at all.
+
+Ball_BR-artwork
+“When you read through Darwin’s Species Notebooks and see the struggle he went through, and then you compare his first and second attempts to present it coherently (in 1842 and 1844) with the Origin, I think it is equally plausible that some very different theory of evolution might have won the day,” says Lennox. After all, alternatives to Darwinian thought were still debated in the late 19th and early 20th centuries, when, Lennox says, “a variety of non-Darwinian theories were at least as popular as Darwin’s.” Some prominent geneticists, such as the Dutchman Hugo de Vries, supposed that evolutionary changes happens in jumps (saltation) rather than by Darwin’s gradual change—and as far as the “macroevolution” of whole groups of species goes, that idea never went away: It’s comparable to the “punctuated equilibrium” model of modern-day biologists Stephen Jay Gould and Niles Eldredge.
+
+But surely Darwinian natural selection is the “right” theory, so we’d have got there eventually? Well yes—but it’s still debated whether the disturbingly tautological “survival of the fittest” is the best way to think about it. Darwin’s view is now augmented and adapted, for example to include the effects of random genetic drift and to unify a view of evolutionary change with accounts of developmental biology (so called “evo-devo”). Might we have got to the current position, then, without an origin-of-species-type account at all? “I think that is entirely possible,” says Lennox.
+
+That tells us something about this entire counterfactual enterprise. Science provides us with theories that are objectively useful in explaining and predicting what we see in the world. But that doesn’t deny the fact that specific theories generally have a particular style in terms of what they express or stress, or of what metaphors they use: Darwinism has no need of the “selfish gene,” for example. Similarly, in an entirely different field, quantum electrodynamics could have been constructed without using the celebrated language of Feynman diagrams devised by Richard Feynman. It seems entirely possible that the way we conceptualize the world bears the imprint of those who first proposed the concepts. Scientists may be less replaceable than we think.
+
+
+
+Philip Ball is a writer based in London. His latest book is The Water Kingdom: A Secret History of China.
+
+ISSUE 043
+HEROES
+EXPLORE THIS ISSUE
+CHAPTER THREE
+PIONEERING
+Ball_TH-1
+HISTORY   
+If Not Darwin, Who?
+Moor_THUMB
+INSECTS   
+The Caterpillar Watcher
+Durant_THUMB
+HISTORY   
+A Prescription for Awe
+Gefter_THUMB
+ARTIFICIAL INTELLIGENCE   
+The Man Who Tried to Redeem the World with Logic
+McKay_THUMB
+ASTRONOMY   
+Make Mars Great Again
+Doyle_TH-1
+ALIENS   
+Listening for Extraterrestrial Blah Blah
+JOIN THE DISCUSSION
+
+NEXT ARTICLE:
+
+Moor_THUMB
+BIOLOGY
+The Caterpillar Watcher
+By Robert Moor
+RELATED ARTICLES:
+
+Gerovitch_THUMB
+NUMBERS
+The Man Who Invented Modern Probability
+By Slava Gerovitch
+Waldman_TH
+CULTURE
+The Father of Modern Metal
+By Jonathan Waldman
+Ashley_THUMB
+NUMBERS
+The Vulgar Mechanic and His Magical Oven
+By Steven Ashley
+ABOUTAWARDS AND PRESSCONTACT / WORK WITH USDONATEFAQMEDIA KITPRIMERSSSUBSCRIBETERMS OF SERVICES
+NAUTILUS: SCIENCE CONNECTED
+
+Nautilus is a different kind of science magazine. We deliver big-picture science by reporting on a single monthly topic from multiple perspectives. Read a new chapter in the story every Thursday.
+© 2016 NautilusThink Inc, All rights reserved. Matter, Biology, Numbers, Ideas, Culture, ConnectedSite by Code and Theory
